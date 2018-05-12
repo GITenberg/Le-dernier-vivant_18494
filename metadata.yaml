@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Paul_Féval_père
     - http://en.wikipedia.org/wiki/Paul_Féval,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18494#Le-dernier-vivant
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-06-03'
 gutenberg_type: Text
